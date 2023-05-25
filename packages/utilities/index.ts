@@ -4,3 +4,6 @@ type Square = (a:number) => number
 export const add: Add = (a, b) =>  a+b
 
 export const square: Square = (a) => a*a
+
+
+export const hello = () => 'Hello'
