@@ -11,7 +11,7 @@ export default function Page() {
   return (
     <>
       <Header text="Web" />
-       <button onClick={addition}>Add</button>
+       <button onClick={addition}>Adding</button>
       <Button />
     </>
   );
